@@ -1,0 +1,11 @@
+C:\Users\giovanni.arsenius\Work\FabrikamFiber\FabrikamFiber.CallCenter\FabrikamFiber.Extranet.Web\bin\FabrikamFiber.Extranet.Web.dll
+C:\Users\giovanni.arsenius\Work\FabrikamFiber\FabrikamFiber.CallCenter\FabrikamFiber.Extranet.Web\bin\FabrikamFiber.Extranet.Web.pdb
+C:\Users\giovanni.arsenius\Work\FabrikamFiber\FabrikamFiber.CallCenter\FabrikamFiber.Extranet.Web\bin\EntityFramework.dll
+C:\Users\giovanni.arsenius\Work\FabrikamFiber\FabrikamFiber.CallCenter\FabrikamFiber.Extranet.Web\bin\FabrikamFiber.DAL.dll
+C:\Users\giovanni.arsenius\Work\FabrikamFiber\FabrikamFiber.CallCenter\FabrikamFiber.Extranet.Web\bin\Ninject.dll
+C:\Users\giovanni.arsenius\Work\FabrikamFiber\FabrikamFiber.CallCenter\FabrikamFiber.Extranet.Web\bin\Ninject.Web.Mvc.dll
+C:\Users\giovanni.arsenius\Work\FabrikamFiber\FabrikamFiber.CallCenter\FabrikamFiber.Extranet.Web\bin\WebActivator.dll
+C:\Users\giovanni.arsenius\Work\FabrikamFiber\FabrikamFiber.CallCenter\FabrikamFiber.Extranet.Web\bin\FabrikamFiber.DAL.pdb
+C:\Users\giovanni.arsenius\Work\FabrikamFiber\FabrikamFiber.CallCenter\FabrikamFiber.Extranet.Web\obj\Release\FabrikamFiber.Extranet.Web.csprojResolveAssemblyReference.cache
+C:\Users\giovanni.arsenius\Work\FabrikamFiber\FabrikamFiber.CallCenter\FabrikamFiber.Extranet.Web\obj\Release\FabrikamFiber.Extranet.Web.dll
+C:\Users\giovanni.arsenius\Work\FabrikamFiber\FabrikamFiber.CallCenter\FabrikamFiber.Extranet.Web\obj\Release\FabrikamFiber.Extranet.Web.pdb

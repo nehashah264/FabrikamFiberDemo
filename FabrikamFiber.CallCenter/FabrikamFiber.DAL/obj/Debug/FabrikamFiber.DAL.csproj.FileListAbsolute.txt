@@ -1,0 +1,5 @@
+C:\Users\giovanni.arsenius\Work\FabrikamFiber\FabrikamFiber.CallCenter\FabrikamFiber.DAL\bin\Debug\FabrikamFiber.DAL.dll
+C:\Users\giovanni.arsenius\Work\FabrikamFiber\FabrikamFiber.CallCenter\FabrikamFiber.DAL\bin\Debug\FabrikamFiber.DAL.pdb
+C:\Users\giovanni.arsenius\Work\FabrikamFiber\FabrikamFiber.CallCenter\FabrikamFiber.DAL\bin\Debug\EntityFramework.dll
+C:\Users\giovanni.arsenius\Work\FabrikamFiber\FabrikamFiber.CallCenter\FabrikamFiber.DAL\obj\Debug\FabrikamFiber.DAL.dll
+C:\Users\giovanni.arsenius\Work\FabrikamFiber\FabrikamFiber.CallCenter\FabrikamFiber.DAL\obj\Debug\FabrikamFiber.DAL.pdb

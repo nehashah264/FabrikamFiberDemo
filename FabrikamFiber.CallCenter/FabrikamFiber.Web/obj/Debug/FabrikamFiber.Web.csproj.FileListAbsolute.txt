@@ -1,0 +1,12 @@
+C:\Users\giovanni.arsenius\Work\FabrikamFiber\FabrikamFiber.CallCenter\FabrikamFiber.Web\bin\FabrikamFiber.Web.dll
+C:\Users\giovanni.arsenius\Work\FabrikamFiber\FabrikamFiber.CallCenter\FabrikamFiber.Web\bin\FabrikamFiber.Web.pdb
+C:\Users\giovanni.arsenius\Work\FabrikamFiber\FabrikamFiber.CallCenter\FabrikamFiber.Web\bin\EntityFramework.dll
+C:\Users\giovanni.arsenius\Work\FabrikamFiber\FabrikamFiber.CallCenter\FabrikamFiber.Web\bin\FabrikamFiber.DAL.dll
+C:\Users\giovanni.arsenius\Work\FabrikamFiber\FabrikamFiber.CallCenter\FabrikamFiber.Web\bin\Ninject.dll
+C:\Users\giovanni.arsenius\Work\FabrikamFiber\FabrikamFiber.CallCenter\FabrikamFiber.Web\bin\Ninject.Web.Mvc.dll
+C:\Users\giovanni.arsenius\Work\FabrikamFiber\FabrikamFiber.CallCenter\FabrikamFiber.Web\bin\WebActivator.dll
+C:\Users\giovanni.arsenius\Work\FabrikamFiber\FabrikamFiber.CallCenter\FabrikamFiber.Web\bin\FabrikamFiber.DAL.pdb
+C:\Users\giovanni.arsenius\Work\FabrikamFiber\FabrikamFiber.CallCenter\FabrikamFiber.Web\bin\EntityFramework.xml
+C:\Users\giovanni.arsenius\Work\FabrikamFiber\FabrikamFiber.CallCenter\FabrikamFiber.Web\obj\Debug\FabrikamFiber.Web.csprojResolveAssemblyReference.cache
+C:\Users\giovanni.arsenius\Work\FabrikamFiber\FabrikamFiber.CallCenter\FabrikamFiber.Web\obj\Debug\FabrikamFiber.Web.dll
+C:\Users\giovanni.arsenius\Work\FabrikamFiber\FabrikamFiber.CallCenter\FabrikamFiber.Web\obj\Debug\FabrikamFiber.Web.pdb
